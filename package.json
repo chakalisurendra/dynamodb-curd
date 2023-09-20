@@ -1,13 +1,13 @@
 {
-    "name": "dynamodb-crud-api-gateway",
+    "name": "employee-crud-api-gateway",
     "version": "1.0.0",
-    "description": "DynamoDB CRUD API using API Gateway and AWS Lambda",
-    "main": "index.js",
+    "description": "Employee CRUD API using API Gateway and AWS Lambda",
+    "main": "api.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "Sanjiva",
+    "author": "surendra",
     "license": "ISC",
     "dependencies": {
         "@aws-sdk/client-dynamodb": "^3.415.0",
